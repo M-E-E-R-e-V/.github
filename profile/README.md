@@ -1,5 +1,6 @@
 # M.E.E.R. e.V.
 
+![](MEER-Logo.svg)
 
 
 ## The association
@@ -16,6 +17,8 @@ We provide comprehensive information – e.g. with lectures, events, seminars, i
 
 #### `R`ESEARCH
 Our research is for the conservation of dolphins and whales and their habitat – sighting data, behavioural observations, photo-identification, land-based observations, interdisciplinary studies and more.
+
+![](slider-startseite-meer-ev-06.jpg)
 
 ## Activities
 M.E.E.R. e.V. is an organization primarily concerned with research on the whales and dolphins off La Gomera.
