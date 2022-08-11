@@ -25,3 +25,26 @@ M.E.E.R. e.V. is an organization primarily concerned with research on the whales
 
 However, it is equally important to us to present the results of our research in an understandable way, as well as to foster the direct connection of humans and the sea, and marine conservation. This is accomplished through the following activities.
 
+
+## Sighting data
+### Year round documentation
+
+The sighting data is the basic information collected with every sighting of whales or dolphins. This includes:
+
+* Date and time
+* Start of sighting, duration and end of sighting
+* Position (via GPS)
+* Sea condition
+* Sighted species
+* Group size
+* Presence of calves and / or juveniles
+* Notes / specifics observations
+
+During the whale watching trips off La Gomera, every sighting of whales and dolphins is documented on every single tour in the way outlined above. By using of special sighting data sheets developed by M.E.E.R. e.V. and made available to the skippers, hundreds of sightings every year will be integrated into our sighting database.
+
+## Extraordinary abundance of data
+To date, the database encompasses several thousand data sets. With this data, it is possible to assess the abundance and distribution of cetaceans. Moreover, and on the basis of the abundance of data over the past years, trends can be recognized e.g. which species are sighted more or less often compared to the previous year, etc.
+
+Thanks to our continuous documentation of all sightings, we accomplished that the sea Southwest to La Gomera is one of the most in-depth researched areas in the Canary Islands and in Europe.
+
+The sighting data is published in papers for scientific journals, and is presented on international conferences, symposia and workshops.
