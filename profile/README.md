@@ -61,3 +61,7 @@ Thanks to our continuous documentation of all sightings, we accomplished that th
 ![](https://raw.githubusercontent.com/M-E-E-R-e-V/.github/main/profile/Karte-BD-300x298.jpg)
 
 The sighting data is published in papers for scientific journals, and is presented on international conferences, symposia and workshops.
+
+## Publications 
+[Research publications](https://m-e-e-r.de/en/research/publications/)
+
